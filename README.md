@@ -22,7 +22,7 @@ Unity · C# · C++
 <br>
 <img src="https://img.shields.io/badge/unity-EAEAEA?style=for-the-badge&logo=unity&logoColor=000"/> 
 <img src="https://img.shields.io/badge/unity-EAEAEA?style=for-the-badge&logo=unity&logoColor=000"/> 
-<img src="https://img.shields.io/badge/unity-EAEAEA?style=for-the-badge&logo=unity&logoColor=000"/> 
+<img src="https://img.shields.io/badge/cplusplus?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/> 
 
 
 

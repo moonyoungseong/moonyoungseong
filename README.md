@@ -20,7 +20,7 @@
 
 Unity · C# · C++
 <br>
-<img src="https://img.shields.io/badge/unity-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
+<img src="https://img.shields.io/badge/unity-EAEAEA?style=for-the-badge&logo=unity&logoColor=000"/> 
 
 
 

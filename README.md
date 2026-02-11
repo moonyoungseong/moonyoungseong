@@ -9,6 +9,8 @@
 
 계속 배우고, 적용하고, 개선해 나가고 있습니다.
 
+---
+
 <!--
 **moonyoungseong/moonyoungseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

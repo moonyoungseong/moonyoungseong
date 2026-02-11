@@ -19,6 +19,8 @@
 ### 🛠 Tech
 <br>
 <img src="https://img.shields.io/badge/unity-EAEAEA?style=for-the-badge&logo=unity&logoColor=000"/>  C# · C++
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 
 
 

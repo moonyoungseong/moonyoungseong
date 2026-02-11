@@ -9,9 +9,10 @@
 
 계속 배우고, 적용하고, 개선해 나가고 있습니다.
 
----
+<br>
 
 🎓 성결대학교 미디어소프트웨어학과
+📧 Email: [ys.moon.work@gmail.com](mailto:ys.moon.work@gmail.com)
 
 <!--
 **moonyoungseong/moonyoungseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ## 안녕하세요 👋
 
-안녕하세요. 더 나은 방법을 고민하며 개발하는 게임 개발자 문영성입니다.
+안녕하세요. 더 나은 방법을 고민하며 개발하는 **게임 개발자** 문영성입니다.
 
 기능을 구현하는 데에서 끝나지 않고,
 "이 방법이 맞을까?", "더 좋은 구조는 없을까?"를 고민합니다.
@@ -14,6 +14,11 @@
 🎓 성결대학교 미디어소프트웨어학과<br>
 📧 Email: [ys.moon.work@gmail.com](mailto:ys.moon.work@gmail.com)<br>
 🔗 Links : 🎥 [YouTube](https://www.youtube.com/@%EB%AC%B8-d9k)  |  📝 [Blog](https://velog.io/@moon0seong/posts)  |  💻 [GitHub](https://github.com/moonyoungseong)
+<br>
+<br>
+### 🛠 Tech
+
+Unity · C# · C++
 
 
 <!--

@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 안녕하세요. 더 나은 방법을 고민하며 개발하는 게임 개발자 문영성입니다.
 
@@ -10,6 +10,8 @@
 계속 배우고, 적용하고, 개선해 나가고 있습니다.
 
 ---
+
+🎓 성결대학교 미디어소프트웨어학과
 
 <!--
 **moonyoungseong/moonyoungseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

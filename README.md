@@ -13,7 +13,9 @@
 
 🎓 성결대학교 미디어소프트웨어학과<br>
 📧 Email: [ys.moon.work@gmail.com](mailto:ys.moon.work@gmail.com)<br>
-🎥 [YouTube](https://www.youtube.com/@%EB%AC%B8-d9k)  |  📝 [Blog](https://velog.io/@moon0seong/posts)  |  💻 [GitHub](https://github.com/your-id)
+
+### 🔗 Links
+🎥 [YouTube](https://www.youtube.com/@%EB%AC%B8-d9k)  |  📝 [Blog](https://velog.io/@moon0seong/posts)  |  💻 [GitHub](https://github.com/moonyoungseong)
 
 
 <!--

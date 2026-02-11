@@ -11,8 +11,10 @@
 
 <br>
 
-🎓 성결대학교 미디어소프트웨어학과
-📧 Email: [ys.moon.work@gmail.com](mailto:ys.moon.work@gmail.com)
+🎓 성결대학교 미디어소프트웨어학과<br>
+📧 Email: [ys.moon.work@gmail.com](mailto:ys.moon.work@gmail.com)<br>
+🎥 [YouTube](https://your-youtube-link.com)  |  📝 [Blog](https://velog.io/@moon0seong/posts)  |  💻 [GitHub](https://github.com/your-id)
+
 
 <!--
 **moonyoungseong/moonyoungseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

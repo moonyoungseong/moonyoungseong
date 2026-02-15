@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="200"/>
+  <img src="증명1.png" width="200"/>
 </p>
 
 ## 안녕하세요 👋
